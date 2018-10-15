@@ -1,3 +1,5 @@
-theme: jekyll-theme-slate
 title: Levelling Up In InfoSec
 description: Simple Guides to InfoSec Concepts
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
